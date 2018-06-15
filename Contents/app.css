@@ -1,0 +1,68 @@
+.lOGO
+{
+    height: 50PX;
+    width: 80px;
+}
+.laugh
+{
+    height: 40PX;
+    width: 40px;
+}
+.laugh:hover
+{visibility: hidden;
+}
+.sclName
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bolder;
+    font-style: oblique;
+    color:grey;
+    
+}
+.sclName:hover{
+    text-underline-position: above;
+    color:rgb(46, 212, 13); 
+    font-size: 20px;
+    animation-duration: 2s;
+}
+.frame
+{
+    height:800px;
+    width: 100%;
+    border: none;
+}
+.MainMe
+{
+    height: 350PX;
+    width: 310px;
+    border-radius: 75%;
+    alt: "VIPUL";
+    
+}
+.MainMe:hover
+{
+    height: 550PX;
+    width: 410px;
+    border-radius: 0%;
+}
+.ContactHead
+{
+    background-color: #04B9AB;
+}
+.sxtnpx
+{
+font-size: 20px;
+}
+.RqsNote
+{
+    font-size: 12px;
+}
+.projImg
+{
+    height: 80px;
+    width: 120px;
+}
+.Mosseywala
+{
+    height: 100%
+}
